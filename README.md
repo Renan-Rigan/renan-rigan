@@ -24,6 +24,15 @@ Olá, eu sou Renan, tenho 18 anos e sou estudante de Engenharia da Computação 
 src="https://raw.githubusercontent.com/devicons/devicon/41d9c16b58765557aa24efdfc1480a9585d6255e/icons/c/c-line.svg"           
 />
 
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
 <br/>
 <br/>
 
