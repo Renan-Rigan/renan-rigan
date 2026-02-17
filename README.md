@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia da Computação`**
 
-Olá, eu sou Renan, tenho 18 anos e sou estudante de Engenharia da Computação na Mackenzie, com interesse em Inteligência Artificial e desenvolvimento de soluções tecnológicas. Meus objetivos incluem aprimorar conhecimentos em Inteligência Artificial e Ciência de Dados, desenvolver soluções inovadoras que integrem tecnologia e impacto real, e contribuir para projetos de código aberto.
+Olá, eu sou Renan, tenho 19 anos e sou estudante de Engenharia da Computação na Mackenzie, com interesse em Inteligência Artificial e desenvolvimento de soluções tecnológicas. Meus objetivos incluem aprimorar conhecimentos em Inteligência Artificial e Ciência de Dados, desenvolver soluções inovadoras que integrem tecnologia e impacto real, e contribuir para projetos de código aberto.
 
 ### 🤖 Linguagens
 
